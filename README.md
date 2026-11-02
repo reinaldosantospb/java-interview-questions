@@ -76,7 +76,7 @@ Exercises will be added progressively as I work through the topics.
 
 Reinaldo Santos
 
-GitHub: [java-interview-questions](https://github.com/SEU-USUARIO/java-interview-questions)
+GitHub: [java-interview-questions](https://github.com/reinaldosantospb/java-interview-questions)
 
 ---
 
